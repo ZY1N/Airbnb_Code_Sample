@@ -5,6 +5,6 @@ Although it is messy I was able to pull through and finish it within the deadlin
 
 ![Untitled2vid](https://user-images.githubusercontent.com/27908897/64572816-c12d6200-d31d-11e9-935a-60886b40b23a.gif)
 
-## Code Sample (Full code in link above and GUI app in https://github.com/ZY1N/Opentrons_Project)
+#### Code Sample (Full code in repo above and GUI app in https://github.com/ZY1N/Opentrons_Project)
 
 <img width="725" alt="Screen Shot 2019-10-18 at 11 21 21 PM" src="https://user-images.githubusercontent.com/27908897/67138930-2c146780-f1ff-11e9-86e7-8f4c93f63d04.png">
